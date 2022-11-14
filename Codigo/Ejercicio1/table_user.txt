@@ -1,0 +1,8 @@
+usuario;password;role
+admin;admin;admin
+paco;123abc**;user
+Ironman;tonySt4rk;admin
+Helios;1901;visit
+Mmora;123!@#;user
+fer;123;visit
+hola;pass123;user
